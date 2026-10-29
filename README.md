@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushagra Shukla</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra103&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra103" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Quality Assurance/Software Testing**
 
 - 📫 How to reach me **kushagrashukla6244@gmail.com**
 
